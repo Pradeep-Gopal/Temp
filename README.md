@@ -45,6 +45,19 @@ The Proposed Control system
 </p>
 
 Ackermann Steering
+\textbf{Terms}
+\begin{itemize}
+    \item $\theta_d$ - Desired heading of the robot
+    \item $s_d$ - Desired speed of the robot
+    \item $W$ - Track length (distance between wheels on an axle)
+    \item $L$ - Wheel base (distance between two axles)
+    \item $a$ - offset of COM from wheel axle 
+    \item $r_w$ - Wheel radius
+    \item $R$ - Turning radius
+    \item $\alpha_i$ - Turning angle for the inner wheel
+    \item $\alpha_o$ - Turning angle for the outer wheel
+\end{itemize}
+
 <p align="center">
   <img width="500" height="500" src="https://github.com/Pradeep-Gopal/Temp/blob/main/images/ackermann_steering.jpeg">
 </p>
