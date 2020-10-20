@@ -41,12 +41,12 @@ https://docs.google.com/document/d/1MYrVPlC8CS4HKTRGY48tLDCI4FuRGh4HkhqQqH0sPOc/
 
 The Proposed Control system
 <p align="center">
-  <img width="250" height="250" src="https://github.com/Pradeep-Gopal/Temp/blob/main/images/controller_block_diagram.jpeg">
+  <img width="1000" height="500" src="https://github.com/Pradeep-Gopal/Temp/blob/main/images/controller_block_diagram.jpeg">
 </p>
 
 Ackermann Steering
 <p align="center">
-  <img width="250" height="250" src="https://github.com/Pradeep-Gopal/Temp/blob/main/images/ackermann_steering.jpeg">
+  <img width="500" height="500" src="https://github.com/Pradeep-Gopal/Temp/blob/main/images/ackermann_steering.jpeg">
 </p>
 
 
