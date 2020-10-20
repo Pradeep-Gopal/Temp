@@ -57,13 +57,13 @@ Ackermann Steering
 - [x] Update UML diagrams with changes in implementation.
 - [x] Write Unit Test cases for testing and check the test cases to ensure all possible scenarios are covered.
 - [x] Generate Doxygen comments in the code
-- [] Develop the code for the project while following C++11 coding guidelines.
-- [] Check for design issues in the code
-- [] Perform testing and fix defects if any.
-- [] Run cpplint and cppcheck as part of Sprint 2.
-- [] Run Valgrind to detect memory leaks. Fix all detected memory leaks.
-- [] Generate Doxygen documentation in the docs folder.
-- [] Make sure that the repository is updated with all delivarables as mentioned in the proposal.
+- [ ] Develop the code for the project while following C++11 coding guidelines.
+- [ ] Check for design issues in the code
+- [ ] Perform testing and fix defects if any.
+- [ ] Run cpplint and cppcheck as part of Sprint 2.
+- [ ] Run Valgrind to detect memory leaks. Fix all detected memory leaks.
+- [ ] Generate Doxygen documentation in the docs folder.
+- [ ] Make sure that the repository is updated with all delivarables as mentioned in the proposal.
 
 
 
