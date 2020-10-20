@@ -39,9 +39,15 @@ https://docs.google.com/spreadsheets/d/1mllm-lFvLnS9uENkift7FDs6RVxYKf9B1DdrZmD5
 ## Google Doc Link for Sprint Planning and notes
 https://docs.google.com/document/d/1MYrVPlC8CS4HKTRGY48tLDCI4FuRGh4HkhqQqH0sPOc/edit?usp=sharing
 
+The Proposed Control system
 <p align="center">
-  <img width="250" height="250" src="https://github.com/Pradeep-Gopal/Temp/blob/main/images/ackermann_steering.jpeg">
   <img width="250" height="250" src="https://github.com/Pradeep-Gopal/Temp/blob/main/images/controller_block_diagram.jpeg">
 </p>
+
+Ackermann Steering
+<p align="center">
+  <img width="250" height="250" src="https://github.com/Pradeep-Gopal/Temp/blob/main/images/ackermann_steering.jpeg">
+</p>
+
 
 
