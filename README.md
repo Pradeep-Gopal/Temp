@@ -16,10 +16,6 @@ Sprint 2:
      * Driver : Justin Albrecht
      * Navigator : Govind Ajithkumar
      * Design Keeper : Pradeep Gopal
- - Part 2 - Testing and code quality check : 
-     * Driver : Pradeep Gopal
-     * Navigator : Justin Albrecht
-     * Design Keeper : Govind Ajithkumar
 
 ## Overview
 For this project we are going to implement a controller that uses the Ackermann kinematic steering equations for the Acme Robotics company. The Ackermann equations assume that a four wheeled vehicle travels around an instantaneous center of curvature and can compute the kinematics for given turning angles for both the inner and outer wheels. The basic idea behind Ackermann steering is that the inner wheel should steer for a bigger angle when compared to the outer wheel. This stops the wheels from slipping side ways when the vehicle follows a curved path. We are assuming that the controller is for a four wheeled robot with front-wheel steering and rear-wheel drive. 
