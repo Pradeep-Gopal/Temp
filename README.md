@@ -45,22 +45,25 @@ The Proposed Control system
 </p>
 
 Ackermann Steering
-\textbf{Terms}
-\begin{itemize}
-    \item $\theta_d$ - Desired heading of the robot
-    \item $s_d$ - Desired speed of the robot
-    \item $W$ - Track length (distance between wheels on an axle)
-    \item $L$ - Wheel base (distance between two axles)
-    \item $a$ - offset of COM from wheel axle 
-    \item $r_w$ - Wheel radius
-    \item $R$ - Turning radius
-    \item $\alpha_i$ - Turning angle for the inner wheel
-    \item $\alpha_o$ - Turning angle for the outer wheel
-\end{itemize}
 
 <p align="center">
   <img width="500" height="500" src="https://github.com/Pradeep-Gopal/Temp/blob/main/images/ackermann_steering.jpeg">
 </p>
+
+## To-do tasks for pair programming (Driver-Navigator-Design Keeper discussion)
+- [x] Create UML Class and Activity diagram.
+- [x] Create Google docs for meeting reflections. 
+- [x] Create code stubs based on the UML class diagram.
+- [x] Update UML diagrams with changes in implementation.
+- [x] Write Unit Test cases for testing and check the test cases to ensure all possible scenarios are covered.
+- [x] Generate Doxygen comments in the code
+- [] Develop the code for the project while following C++11 coding guidelines.
+- [] Check for design issues in the code
+- [] Perform testing and fix defects if any.
+- [] Run cpplint and cppcheck as part of Sprint 2.
+- [] Run Valgrind to detect memory leaks. Fix all detected memory leaks.
+- [] Generate Doxygen documentation in the docs folder.
+- [] Make sure that the repository is updated with all delivarables as mentioned in the proposal.
 
 
 
